@@ -33,7 +33,7 @@ The project aims to implement, train and compare different deep learning archite
 ## 2. Project Structure
 
 ```text
-music-source-separation/
+Projet/
 │
 ├── README.md
 ├── requirements.txt
