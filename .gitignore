@@ -1,5 +1,37 @@
-.env
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
 
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Generated results
+results/audio/
+results/figures/
+results/metrics/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
 .vscode/
-data/
-perso/
+
+# Environment variables
+.env
