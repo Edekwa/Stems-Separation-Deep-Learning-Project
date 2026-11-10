@@ -1,0 +1,8 @@
+
+# NVIDIA GPU dependencies
+# CUDA 12.8 - Windows x64
+
+--index-url https://download.pytorch.org/whl/cu128
+
+torch==2.11.0
+torchaudio==2.11.0

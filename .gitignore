@@ -35,3 +35,8 @@ Thumbs.db
 
 # Environment variables
 .env
+
+# Cache & Logs
+.pytest_cache/
+.ruff_cache/
+tensorboard_logs/
